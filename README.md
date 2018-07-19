@@ -1,0 +1,2 @@
+# WFChain
+WFchain is a time-sharing wireless network value sharing ecosystem, and its main chain named WFchain is  developed based on Ethernet Intelligent contract ERC2.0.The aim is to establish a centralization, collective  governance, rule driven ecological trust system, and to achieve trustworthy and non tamperable data sharing  on this trust system.The role of participation in the ecosystem: Hot users, sharing customers, advertisers  can get reasonable incentives and rewards.
